@@ -1,7 +1,7 @@
 
 import React from 'react'
-import Form from './compomnents/form/form'
-import Formdatahandle from './compomnents/form/formdatahandle'
+import Form from './compomnents/form/Form'
+
 function App() {
   return (
     <div>
